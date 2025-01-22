@@ -15,3 +15,4 @@ This project is a simple Android application built with Jetpack Compose, demonst
 3. Run the app on an emulator or a physical device.
 
 ## Screenshots
+![SuperheroesAppScreenshot](https://github.com/user-attachments/assets/c754a041-6209-4a16-8f97-b1ba9c7b5a00)
